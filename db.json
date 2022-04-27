@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "Виктор",
+      "surname": "Круг",
+      "number": "+375331234529",
+      "password": "qwerty",
+      "twostep": 8989
+    },
+    {
+      "name": "Олег",
+      "surname": "Гольмий",
+      "number": "+37533123234",
+      "password": "asdfgh",
+      "twostep": 9898
+
+    }
+  ]
+}
