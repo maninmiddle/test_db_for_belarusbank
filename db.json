@@ -3,6 +3,7 @@
     {
       "name": "Виктор",
       "surname": "Круг",
+      "username": "viktor.krug",
       "avatar": "https://this-person-does-not-exist.com/img/avatar-9b28438d35b80ed08382c48612f7e0ec.jpg",
       "number": "+375331234529",
       "password": "qwerty",
@@ -11,6 +12,7 @@
     {
       "name": "Олег",
       "surname": "Гольмий",
+      "username": "oleg.gol",
       "avatar": "https://this-person-does-not-exist.com/img/avatar-a13665687e7645ecebc21d07802bf5d3.jpg",
       "number": "+37533123234",
       "password": "asdfgh",
