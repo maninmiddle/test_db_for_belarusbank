@@ -1,55 +1,54 @@
 {
-  "users": [
-    {
-      "name": "Виктор",
-      "surname": "Круг",
-      "username": "viktor.krug",
-      "avatar": "https://this-person-does-not-exist.com/img/avatar-9b28438d35b80ed08382c48612f7e0ec.jpg",
-      "number": "+375331234529",
-      "password": "qwerty",
-      "twostep": 8989
-    },
-    {
-      "name": "Олег",
-      "surname": "Гольмий",
-      "username": "oleg.gol",
-      "avatar": "https://this-person-does-not-exist.com/img/avatar-a13665687e7645ecebc21d07802bf5d3.jpg",
-      "number": "+37533123234",
-      "password": "asdfgh",
-      "twostep": 9898
-
-    }
-  ],
-  "payments": [
-    {
-      "title": "Figma",
-      "icon": "http://blog.greggant.com/images/posts/2019-04-25-figma/Figma.png",
-      "count": "20$",
-      "time": "18:00 PM"
-    },
-    {
-      "title": "Spotify",
-      "icon": "https://www.soft32.com/blog/wp-content/uploads/2016/08/spotify_logo.png",
-      "count": "40$",
-      "time": "10:51 AM"
-    },
-    {
-      "title": "Adobe XD",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg",
-      "count": "120$",
-      "time": "12:53 PM"
-    },
-    {
-     "title": "Adobe XD",
-     "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg",
-     "count": "120$",
-     "time": "12:53 PM"
-    },
-    {
-     "title": "Adobe XD",
-     "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg",
-     "count": "120$",
-     "time": "12:53 PM"
-    }
-  ]
+	"users": [
+		{
+			"name": "Виктор",
+			"surname": "Круг",
+			"username": "viktor.krug",
+			"avatar": "https://this-person-does-not-exist.com/img/avatar-9b28438d35b80ed08382c48612f7e0ec.jpg",
+			"number": "+375331234529",
+			"password": "qwerty",
+			"twostep": 8989
+		},
+		{
+			"name": "Олег",
+			"surname": "Гольмий",
+			"username": "oleg.gol",
+			"avatar": "https://this-person-does-not-exist.com/img/avatar-a13665687e7645ecebc21d07802bf5d3.jpg",
+			"number": "+37533123234",
+			"password": "asdfgh",
+			"twostep": 9898
+		}
+	],
+	"payments": [
+		{
+			"title": "Figma",
+			"icon": "http://blog.greggant.com/images/posts/2019-04-25-figma/Figma.png",
+			"count": "20$",
+			"time": "18:00 PM"
+		},
+		{
+			"title": "Spotify",
+			"icon": "https://www.soft32.com/blog/wp-content/uploads/2016/08/spotify_logo.png",
+			"count": "40$",
+			"time": "10:51 AM"
+		},
+		{
+			"title": "Youtube",
+			"icon": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
+			"count": "124$",
+			"time": "12:33 PM"
+		},
+		{
+			"title": "Adobe Premier",
+			"icon": "https://cdn-icons-png.flaticon.com/512/5968/5968525.png",
+			"count": "87$",
+			"time": "13:53 AM"
+		},
+		{
+			"title": "Adobe XD",
+			"icon": "https://cdn-icons.flaticon.com/png/512/5611/premium/5611129.png?token=exp=1653510344~hmac=c840a7ad65ece7ab72d9407611f9b39d",
+			"count": "120$",
+			"time": "12:53 PM"
+		}
+	]
 }
